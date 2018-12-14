@@ -1,3 +1,5 @@
+## [See "writeup.pdf" for final report](https://github.com/john-u/freertos-32u4-port/blob/master/writeup.pdf)
+
 ### Self-Directed Project
 
 The learning GOAL of this project is for each student to 1) increase his/her knowledge of real-time embedded systems, as well as 2) acquire or improve a skill related to the design, construction, and/or analysis of a real-time embedded system.
