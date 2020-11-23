@@ -8,7 +8,7 @@ MCU=atmega32u4
 ADC_PATH=./basic-analog
 
 FREERTOS_PATH=./FreeRTOS
-FREERTOS_PORT_PATH=$(FREERTOS_PATH)/Source/portable/gcc/ATmega32U4
+FREERTOS_PORT_PATH=$(FREERTOS_PATH)/Source/portable/GCC/ATMega32U4
 FREERTOS_MEM_PATH=$(FREERTOS_PATH)/Source/portable/MemMang
 
 HOUGH_PATH=./hough
